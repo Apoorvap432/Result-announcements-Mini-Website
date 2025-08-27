@@ -1,5 +1,9 @@
 🎓 Result Announcements Tool
+
 A modern, responsive web application for displaying student exam results by roll number. Built with React.js, Tailwind CSS, and featuring a clean, professional interface similar to government result portals.
+
+<img width="1893" height="885" alt="image" src="https://github.com/user-attachments/assets/a8bdd1ff-623b-46f0-839e-866eaaded1b2" />
+
 
 ---
 
